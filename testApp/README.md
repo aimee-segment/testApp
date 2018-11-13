@@ -6,6 +6,8 @@ Otherwise, execute `ruby bin/app.rb`.
 
 The webApp from local machine is: `http://localhost:8080/`
 
+Run `bundle install` to ensure Gemfile is up-to-date
+
 ## Usage
 
 App behavior + tracking code is in `app.rb`
