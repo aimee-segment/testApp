@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    testApp (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    analytics-ruby (2.0.13)
+    minitest (5.11.3)
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  analytics-ruby (~> 2.0.0)
+  bundler (~> 1.16)
+  minitest (~> 5.0)
+  rake (~> 10.0)
+  testApp!
+
+BUNDLED WITH
+   1.16.2
